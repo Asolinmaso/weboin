@@ -8,13 +8,13 @@ export default function SemiFooter() {
         <div className="max-w-7xl mx-auto px-4 py-12">
           <div className="grid grid-cols-1 md:grid-cols-2 md:gap-2">
             <div className="font-bold" style={{ fontSize: '3rem', lineHeight: '1' }}>
-              <div className="text-green-500 mb-2">
+              <div className="mb-2">
                 Empower your future with cutting-edge skills
               </div>
-              <div className="text-blue-400 mb-2">
+              <div className="mb-2">
                 New, Embrace innovation, master technology, &amp; shape the digital world
               </div>
-              <div className="text-red-500">
+              <div>
                 Your journey to success starts here.
               </div>
             </div>
